@@ -1,0 +1,11 @@
+# build output
+out/
+*.elf
+*.bin
+*.o
+__pycache__/
+*.pyc
+
+# never commit a saved session or credentials
+F286_TG.BIN
+.env
